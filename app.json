@@ -27,27 +27,27 @@
 
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "6317033018:AAELYma_0EKAOwC7YfUhca-scjFre7yFSiQ"
     },
 
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "25194985"
     },
 
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "dc6efd66926906b2a354b6020ba5dfad"
     },
 
     "OWNER_ID": {
       "description": "Your Telegram ID",
-      "value": ""
+      "value": "2122960237"
     },
     
     "DATABASE_URL": {
       "description": "Your MongoDB URI",
-      "value": ""
+      "value": "mongodb+srv://Vansh:Vansh@cluster0.w1thepo.mongodb.net/?retryWrites=true&w=majority"
     }
 
   },
